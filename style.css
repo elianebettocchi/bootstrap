@@ -1,9 +1,13 @@
 body{
     background-color: rgb(132, 0, 0);
     color: black;
+    font-family: 'Courier New', Courier, monospace;
 }
-a{
-    color: grey;
+.a-red{
+    color: #f86c7a;
+}
+.a-grey{
+    color: #fff;
 }
 a:hover{
     color: dodgerblue;
@@ -21,5 +25,5 @@ a:hover{
     background-color: #333;
 }
 .nav-link{
-    color: white;
+    color: grey;
 }
